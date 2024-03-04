@@ -4,7 +4,7 @@ import Navbar from './components/navbar'
 import Productscard from './components/productscard'
 import Shopboard from './components/shopboard'
 import Cardcontainer from './components/cardcontainer'
-
+import Footer from './components/footer'
 function App() {
 
 
@@ -19,7 +19,7 @@ const datas = {"datas" : [
       "name": "Blue Striped Shirt Dress",
       "image": "https://2.bp.blogspot.com/-XxH9oJPzYdE/VwiZKm_uIMI/AAAAAAAAAes/zYoAc3M03xwIy8rkBhkVyBdeADZcUlr6A/s1600/New%2BStylish%2BDark%2BRed%2BFull%2BDress%2B.jpg",
       "rating": 4.2,
-      "price": 29.99,
+      "price": 69.99,
       "actualprice" : 34.55
   }
     ,
@@ -252,7 +252,7 @@ cartStatus ={cartStatus}
 
  />
 
-
+<Footer/>
 
 
 
