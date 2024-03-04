@@ -77,8 +77,6 @@ setcartcount((prevCount) => prevCount - 1);
 <Cardcontainer products={products} handlecart={handlecart} cart ={cart}
 cartStatus ={cartStatus}
 
-
-
  />
 
 

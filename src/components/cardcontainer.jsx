@@ -30,7 +30,7 @@ console.log(productname);
 
 <section>
 
-   <div className="container-fluid">
+ 
         <div className="container-fluid px-12 px-lg-12 mt-5">
           <div className="row gx-4 gx-lg-12 row-cols-1 row-cols-md-3 row-cols-xl-4 justify-content-center" id="cardcontainer">
            
@@ -63,7 +63,7 @@ cartStatus={cartStatus}
 
 </div>
           </div>
-        </div>
+     
       </section>
     
     
